@@ -149,7 +149,7 @@ class _MyAppState extends State<MyApp> {
 
 
 /*Future<Weather> fetchWeather() async {
-  final response = await http.get('https://api.openweathermap.org/data/2.5/weather?q=karera&appid=60280c4968ffb4c3944d165fc106111a');
+  final response = await http.get('https://api.openweathermap.org/data/2.5/weather?q=karera&appid=');
   if (response.statusCode==200){
     return Weather.fromJson(jsonDecode(response.body));
   }else{
