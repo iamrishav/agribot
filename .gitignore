@@ -39,3 +39,4 @@ app.*.symbols
 
 # Obfuscation related
 app.*.map.json
+/assets/agrimate-288904-2a88adbda870.json
