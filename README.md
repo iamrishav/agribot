@@ -1,6 +1,6 @@
 # agribot
 
-A new Flutter project.
+Chatbot to solve common queries of Farmers, this chatbot is integrated in AgriMate(Main application)
 
 ## Getting Started
 
